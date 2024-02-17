@@ -1,2 +1,2 @@
-# JavaATMmachine
-Designed and implemented a Java GUI program featuring dual portals for students and faculty, offering streamlined access to functions such as fee submission, academic record management, and additional services tailored to each user's role.
+# Development of a Java-Powered ATM System:
+Engineered a Java-powered ATM project for the university's final year initiative, emphasizing streamlined banking operations, including secure money transfers, debit card password management, and additional functionalities.
